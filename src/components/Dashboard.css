@@ -93,3 +93,18 @@
     margin-right: 25px;
     height:300px;
 }
+table,th,td{
+    border: 1px solid black;
+}
+.table__container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.table-span_sm{
+   margin-right:20px;
+   margin-left:20px;
+}
+.table-span_m{
+    margin-right:20px;
+}
